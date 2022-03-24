@@ -7,6 +7,7 @@ Este repositório contém os arquivos necessários para realizar a entrevista co
 1. Crie uma REST API em Node.js que atenda os endpoints da tabela abaixo;
 1. A API deve ser capaz de cumprir as etapas básicas do CRUD e retornar os HTTP responde codes corretamente;
 1. Utilize Docker;
+1. Utilize um banco de dados de sua preferência;
 
 ### Endpoints
 | Método | Rota |
